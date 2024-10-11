@@ -1,0 +1,6 @@
+language: generic
+install: skip
+notifications:
+  slack: fantastic-forest:AM6vTyQk2KFKYqgjl3m0oXpC
+  on_success: always
+  on_fail: always
