@@ -7,4 +7,4 @@ notifications:
       - fantastic-forest:AM6vTyQk2KFKYqgjl3m0oXpC#community
     if: branch = main
     on_success: always
-    on_fail: always
+    on_failure: always
