@@ -4,7 +4,7 @@ install: skip
 notifications:
   slack:
     rooms:
-      - fantastic-forest:AM6vTyQk2KFKYqgjl3m0oXpC#community
+      - 'fantastic-forest:AM6vTyQk2KFKYqgjl3m0oXpC#off-topic'
     if: branch = main
     on_success: always
     on_failure: always
