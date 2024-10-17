@@ -4,8 +4,8 @@ script: false
 #install: skip
 notifications:
   slack:
-  - rooms:
-    - fantastic-forest:SDkCWcX8IvrTQQRlGXVYgUZ3
+    rooms:
+      - fantastic-forest:mHKSQs1frqlqd8R8vwHAXZ0h
   #if: branch = main
   #on_success: always
   #on_failure: always
