@@ -1,11 +1,9 @@
 ---
 language: generic
-script: false
+#script: false
 #install: skip
 notifications:
-  slack:
-    rooms:
-      - fantastic-forest:mHKSQs1frqlqd8R8vwHAXZ0h
+  slack: fantastic-forest:wZNL5USbH3dtcIz8ogGqVA5Z
   #if: branch = main
   #on_success: always
   #on_failure: always
