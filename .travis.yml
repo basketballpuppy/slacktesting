@@ -5,5 +5,5 @@ language: generic
 notifications:
   slack: fantastic-forest:wZNL5USbH3dtcIz8ogGqVA5Z
   #if: branch = main
-  #on_success: always
+  on_success: always
   #on_failure: always
